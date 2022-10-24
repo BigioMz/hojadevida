@@ -9,11 +9,9 @@ Esta es mi hoja de vida en la cual se puede conocer mas de mi persona, tanto lab
 
 
 ## Procedimiento 
-1. Cada miembro debe encargarse de una sección ejemplo: (menú, experiencia laboral, carrusel de imágenes, etc...)
-2. De cada sección cada miembro debe requerir a los demás compañeros de trabajo los datos necesarios para crearla
-3. Cada miembro debe tener una rama propia en git y debe evidenciarse mínimo 10 commits en su rama personal desde su cuenta personal
-4. El proyecto grupal se debe subir a GITLAB como PRIVADO y debe estar compartido con los demás miembros del equipo
-
+1. El programador debe hacer su hoja de vida.
+2. Debe tener un readme bonito.
+3. Debe ser subido a github.
 ### Presenta
 - Sergio Alejandro Toro Ramirez - Universidad de Manizales
 ## Gracias :yum:
