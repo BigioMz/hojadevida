@@ -1,17 +1,17 @@
-# HOJA DE VIDA 
+# BIENVENIDO A MI HOJA DE VIDA
+![header Sergio](assets/sergio.jfif) 
+
+
 
 ## Descripcion
 
-Esta es mi hoja de vida en la cual se puede conocer mas de mi persona, tanto laboral como personalmente y veremos los siguientes puntos
-- Plan gratuito y sin limitaciones, aunque tiene planes de pago.
-- Es de licencia de código abierto.
-- Está muy bien integrado con Git.
+Me considero una persona eficaz y con una gran capacidad para absorber conocimiento y unas ganas voraces tanto como de aprender como de salir adelante en lo que me apasiona que es plasmar ideas en código. Tengo un técnico en programación de paginas web y en estos momentos curso la ing. en sistemas y telecomunicaciones, soy de las personas que no para por nada ni por nadie, ¡¡La meta es el destino!!.
 
 
-## Procedimiento 
-1. El programador debe hacer su hoja de vida.
-2. Debe tener un readme bonito.
-3. Debe ser subido a github.
+### Lenguajes y herramientas de conocimiento
+
+
+
 ### Presenta
 - Sergio Alejandro Toro Ramirez - Universidad de Manizales
 ## Gracias :yum:
